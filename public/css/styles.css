@@ -17,6 +17,11 @@ html {
 
 body {
   font-size: 1.8rem;
+  
+}
+
+.debImage {
+  background-image: url(../img/DebDrawing.svg);
 }
 
 h1, h2, h3 {
